@@ -70,6 +70,12 @@ bookstore/
 
 ---
 
+## 🖥 UI Preview 
+
+![bookstore](bookstore.png) 
+
+---
+
 ## 🧠 Learning Outcomes
 
 This project demonstrates the end-to-end development of a full-stack web application using Django, focusing on clean architecture, database modeling, and maintainable backend design.
